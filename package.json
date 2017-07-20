@@ -1,0 +1,28 @@
+{
+  "name": "servertest",
+  "version": "1.0.0",
+  "description": "premier server node a l'ifa",
+  "main": "index.js",
+  "scripts": {
+    "test": "`"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lleoooell/nodeservertest.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "test"
+  ],
+  "author": "leo casagrande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lleoooell/nodeservertest/issues"
+  },
+  "homepage": "https://github.com/lleoooell/nodeservertest#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
